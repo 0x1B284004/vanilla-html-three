@@ -3,7 +3,7 @@
 	that i thought were kinda rusty ! After a few days of crying reading Three.js documentation's
 	I decided to make this project open-source : Feel free to paste whatever you want, as a great
 	developper said : 
- 			"Paste or get pasted"
+ 		"Paste or get pasted"
 
 # The idea
 	Project is to make a simple show-off website in vanilla html 5, I wanted to do something cool
